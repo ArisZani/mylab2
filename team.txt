@@ -3,5 +3,5 @@
 "# mylab2" 
 =======
 
-I favourite football team is FC Barcalona. YIPEE!!
+My favourite football team is FC Barcelona. YIPEE!!
 >>>>>>> 428cfb4 (Markdown File with my favourite team)
